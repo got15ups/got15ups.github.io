@@ -483,17 +483,24 @@ pre code.hljs {
     margin: auto;
     width: 100%; }
   .page-content .profile {
-    position: relative;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 80px; }
+    margin-bottom: 40px;
+    text-align: center; }
+    @media screen and (max-width: 480px) {
+      .page-content .profile {
+        margin-bottom: 20px; } }
   .page-content .profile-picture-circular {
-    position: relative;
-    top: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 20px;
     width: 200px;
     height: 200px;
     border-radius: 50%;
     box-shadow: 1px 1px 6px #292929; }
+    @media screen and (max-width: 480px) {
+      .page-content .profile-picture-circular {
+        display: block;
+        margin-left: auto;
+        margin-right: auto; } }
   .page-content div #picture-maximilian {
     background-image: url(/assets/profile-pics/max.jpg);
     background-position: center center;
@@ -505,9 +512,17 @@ pre code.hljs {
     background-repeat: no-repeat;
     background-size: 250px; }
   .page-content .profile-text {
-    position: absolute;
-    left: 280px;
-    top: 50px; }
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+    text-align: left; }
+    @media screen and (max-width: 480px) {
+      .page-content .profile-text {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        text-align: center; } }
   .page-content .author-description {
     display: block;
     margin: auto;
@@ -515,6 +530,13 @@ pre code.hljs {
     position: relative;
     padding-left: 20px;
     padding-right: 20px; }
+    @media screen and (max-width: 480px) {
+      .page-content .author-description {
+        width: auto;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-left: -1em;
+        margin-right: -1em; } }
   .page-content .profile-preview {
     position: relative;
     padding: 20px; }
