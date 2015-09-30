@@ -303,6 +303,8 @@ pre code.hljs {
       font-size: 2.98598em; }
     .site-header-container.has-cover .subtitle, .site-header-container.has-cover .info, .post-header-container.has-cover .subtitle, .post-header-container.has-cover .info {
       font-size: 1.2em; }
+  .site-header-container#welcome, .post-header-container#welcome {
+    background-position: 0% 50%; }
   .site-header-container .scrim, .post-header-container .scrim {
     padding: 3em 1em; }
     .site-header-container .scrim.has-cover, .post-header-container .scrim.has-cover {
@@ -549,6 +551,8 @@ pre code.hljs {
     padding-bottom: 1em; }
   .page-content .post .post-content {
     padding: 1em 0; }
+  .page-content .post #paragraph-header {
+    font-size: 100%; }
   .page-content .post .tags {
     font-size: 0.9em; }
   .page-content .post .rss {
