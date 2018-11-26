@@ -1,51 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://blog.got15ups.de//max/kevin/2015/12/12/lappland-day-4.html</loc>
-    <lastmod>2015-12-12T01:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.got15ups.de//max/kevin/2015/12/11/lappland-day-3.html</loc>
-    <lastmod>2015-12-11T01:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.got15ups.de//max/kevin/2015/12/10/lappland-day-2.html</loc>
-    <lastmod>2015-12-10T01:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.got15ups.de//max/kevin/2015/12/09/lappland-day-1.html</loc>
-    <lastmod>2015-12-09T01:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.got15ups.de//max/kevin/2015/12/09/lappland.html</loc>
-    <lastmod>2015-12-09T01:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.got15ups.de//max/2015/10/30/norway-bergen.html</loc>
-    <lastmod>2015-10-30T21:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.got15ups.de//kevin/2015/10/28/traditions.html</loc>
-    <lastmod>2015-10-28T01:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.got15ups.de//max/2015/10/22/landunter.html</loc>
-    <lastmod>2015-10-22T03:00:00+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.got15ups.de//max/kevin/2015/09/30/welcome.html</loc>
-    <lastmod>2015-09-30T02:00:00+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.got15ups.de//about/</loc>
-  </url>
-  <url>
-    <loc>http://blog.got15ups.de//</loc>
-  </url>
-  <url>
-    <loc>http://blog.got15ups.de//posts/</loc>
-  </url>
-  <url>
-    <loc>http://blog.got15ups.de//profiles/</loc>
-  </url>
+<url>
+<loc>http://localhost:4000/max/kevin/2015/09/30/welcome.html</loc>
+<lastmod>2015-09-30T02:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/kevin/2015/10/28/traditions.html</loc>
+<lastmod>2015-10-28T01:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/max/2015/10/30/norway-bergen.html</loc>
+<lastmod>2015-10-30T21:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/max/kevin/2015/12/09/lappland-intro.html</loc>
+<lastmod>2015-12-09T07:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/max/kevin/2015/12/09/lappland-day-1.html</loc>
+<lastmod>2015-12-09T21:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/max/kevin/2015/12/10/lappland-day-2.html</loc>
+<lastmod>2015-12-10T01:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/max/kevin/2015/12/11/lappland-day-3.html</loc>
+<lastmod>2015-12-11T01:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/max/kevin/2015/12/12/lappland-day-4.html</loc>
+<lastmod>2015-12-12T01:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/posts/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/profiles/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/nations/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/vastgota/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/gasques/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/songbook/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/norway/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/bergen/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/lappland/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/scanbalt/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/kiruna/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/sleddogs/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/snowmobile/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/abisko/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/sami/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/icehotel/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/reindeer/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/narvik/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/dragon/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/sauna/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/aurora/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/sled/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/crab/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/arctic-circle/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/max/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/kevin/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
+</url>
 </urlset>
